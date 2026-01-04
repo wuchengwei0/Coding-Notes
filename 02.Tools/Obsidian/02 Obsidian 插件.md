@@ -17,6 +17,12 @@
 ![Obsidian_plugin_01](images/Obsidian_plugin_01.png)
 ![Obsidian_plugin_02](images/Obsidian_plugin_02.png)
 
+
+### 1.3 Excalidraw
+
+> [!NOTE] 
+> 画板插件
+
 ### 1.3 ??
 ??
 
