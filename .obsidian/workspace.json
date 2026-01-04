@@ -95,7 +95,7 @@
               "type": "backlink",
               "state": {
                 "file": "02.Tools/Obsidian/02 Obsidian 插件.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -174,13 +174,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "43aee290c435e6fb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +207,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d851b6db318bd738",
+  "active": "83c8357abb6c58dc",
   "lastOpenFiles": [
     "02.Tools/Obsidian/images/Obsidian_plugin_02.png",
     "02.Tools/Obsidian/images/Obsidian_plugin_01.png",
