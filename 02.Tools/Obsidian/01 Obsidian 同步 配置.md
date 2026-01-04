@@ -99,3 +99,4 @@ git add .
 git commit -m "Init commit: Add all valut"
 git push -u origin main
 ```
+4.5 Obsidian中安装Git插件并配置

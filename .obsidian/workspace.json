@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a7310754dc1ef562",
+        "id": "77ed29fb8bc1a772",
         "type": "tabs",
         "children": [
           {
-            "id": "e9fc85ca0619aa95",
+            "id": "d851b6db318bd738",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
+                "file": "02.Tools/Obsidian/02 Obsidian 插件.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Obsidian 同步 配置"
+              "title": "02 Obsidian 插件"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
+                "file": "02.Tools/Obsidian/02 Obsidian 插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "01 Obsidian 同步 配置 的反向链接列表"
+              "title": "02 Obsidian 插件 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
+                "file": "02.Tools/Obsidian/02 Obsidian 插件.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "01 Obsidian 同步 配置 的出链列表"
+              "title": "02 Obsidian 插件 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
+                "file": "02.Tools/Obsidian/02 Obsidian 插件.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "01 Obsidian 同步 配置 的大纲"
+              "title": "02 Obsidian 插件 的大纲"
             }
           },
           {
@@ -193,16 +193,19 @@
       "bases:创建新数据库": false,
       "remotely-save:Remotely Save": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9fc85ca0619aa95",
+  "active": "d851b6db318bd738",
   "lastOpenFiles": [
+    "02.Tools/Obsidian/images/Obsidian_plugin_01.png",
+    "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
+    "02.Tools/Obsidian/02 Obsidian 插件.md",
     "02.Tools/Obsidian/images/Obsidian_09.png",
     "02.Tools/Obsidian/images/Obsidian_08.png",
     "未命名.md",
     "新建 文本文档.txt",
-    "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
     "02.Tools/Obsidian/images/Obsidian_11.png",
     "02.Tools/Obsidian/images/Obsidian_10.png",
     "02.Tools/README.md",
@@ -214,7 +217,6 @@
     "02.Tools/Obsidian/images/Obsidian_07.png",
     "02.Tools/Obsidian/images/Obsidian_06.png",
     "02.Tools/Obsidian/images/Obsidian_05.png",
-    "02.Tools/Obsidian/images/Obsidian_04.png",
     "02.Tools/Obsidian/images",
     "02.Tools",
     "欢迎.md",
