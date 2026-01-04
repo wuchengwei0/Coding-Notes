@@ -32,4 +32,5 @@
 ### 3.2 File Explorer Note Count
 
 > [!NOTE] 
-> z
+> 作者: Ozan Tellioglu
+> 计数每个文件夹下有多少个笔记
