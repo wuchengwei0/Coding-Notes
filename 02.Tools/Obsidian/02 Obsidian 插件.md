@@ -11,6 +11,6 @@
 ### 插件设置
 1.  Git --> Pull --> Automatic --> Auto commit-and-sync interval(minutes)  *自动提交的间隔*
 2. Git --> Pull --> Pull on startup   *启动时自动拉取更新*
-3. Git --> Pull --> Push on commit-and-sync   *z*
+3. Git --> Pull --> Push on commit-and-sync   *在提交同步的同时自动推送(默认开启的)*
 ![Obsidian_plugin_01](images/Obsidian_plugin_01.png)
 ![Obsidian_plugin_02](images/Obsidian_plugin_02.png)
