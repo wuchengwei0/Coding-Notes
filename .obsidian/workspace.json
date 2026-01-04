@@ -202,9 +202,9 @@
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
       "remotely-save:Remotely Save": false,
+      "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
   "active": "83c8357abb6c58dc",
