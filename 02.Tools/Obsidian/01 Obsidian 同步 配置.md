@@ -13,21 +13,21 @@
 2. 在PC端下载OneDrive并安装
 
 3. 新建仓库 - 创建
-   ![Obsidian_01](Obsidian_01.png)
+   ![Obsidian_01](images/Obsidian_01.png)
 
 4. 安装插件
 
    - 设置 -->第三方插件 --> 关闭安全模式(才可以安装插件)
 
-     ![Obsidian_02](Obsidian_02.png)
+     ![Obsidian_02](images/Obsidian_02.png)
 
    - 设置 --> 第三方插件 --> 社区插件市场 --> 浏览
 
-     ![Obsidian_03](Obsidian_03.png)
+     ![Obsidian_03](images/Obsidian_03.png)
 
    - 搜索 Remotely Save --> 安装 --> 启用
 
-![Obsidian_04](Obsidian_04.png)
+![Obsidian_04](images/Obsidian_04.png)
 
 ## 2 电脑设置
 
@@ -38,7 +38,7 @@
      - 鉴权成功后， --> 检查可否连接 --> 点击--检查
   - 所有配置都成功后，就可以在左侧的刷新按钮进行同步了
    
-  ![Obsidian_05](Obsidian_05.png)
+  ![Obsidian_05](images/Obsidian_05.png)
    
   2. 其他配置
    
@@ -46,17 +46,17 @@
   - 在 **基本设置 --> 启动后自动运行一次 -> 启动后第1秒运行一次 **
      - 在 <font color=red>**进阶设置 --> 如果修改超过百分比则中止同步 --> 100(去除此保护) !!!!**</font>  不设置会导致同步报错
 
-     ![Obsidian_06](Obsidian_06.png)
+     ![Obsidian_06](images/Obsidian_06.png)
    
-     ![Obsidian_07](Obsidian_07.png)
+     ![Obsidian_07](images/Obsidian_07.png)
 
 ## 3 移动端设置
 1. IOS --> App Store --> Obsidian - Connected Notes --> 获取
 
-   ![Obsidian_08](Obsidian_08.jpg)
+   ![Obsidian_08](images/Obsidian_08.png)
 
 2.  Iphone/Ipad 打开 Obsidian软件 --> Create a value --> Value name(Coding Notes <font color=red>保证跟PC创建的仓库一样</font>)
-   ![Obsidian_09](Obsidian_09.jpg)
+   ![Obsidian_09](images/Obsidian_09.png)
 
 3. 跟PC端一样
 
