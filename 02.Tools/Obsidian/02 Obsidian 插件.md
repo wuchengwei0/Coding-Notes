@@ -29,3 +29,7 @@
 > [!NOTE] 
 > 作者: @kepano
 > 可以隐藏页面元素
+### 3.2 File Explorer Note Count
+
+> [!NOTE] 
+> z
