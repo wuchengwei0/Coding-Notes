@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Tools/Obsidian/02 Obsidian 插件.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 Obsidian 插件"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Tools/Obsidian/02 Obsidian 插件.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "02 Obsidian 插件 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02.Tools/Obsidian/02 Obsidian 插件.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "02 Obsidian 插件 的出链列表"
+              "title": "README 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02.Tools/Obsidian/02 Obsidian 插件.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "02 Obsidian 插件 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -190,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,8 +209,10 @@
   },
   "active": "1a6a4909aa447fdf",
   "lastOpenFiles": [
-    "02.Tools/Obsidian/未命名.md",
+    "欢迎.md",
+    "README.md",
     "02.Tools/Obsidian/02 Obsidian 插件.md",
+    "02.Tools/Obsidian/未命名.md",
     "02.Tools/Obsidian/images/Obsidian_plugin_02.png",
     "02.Tools/Obsidian/images/Obsidian_plugin_01.png",
     "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
@@ -224,13 +225,11 @@
     "02.Tools/README.md",
     "02.Tools/Obsidian",
     "02.Tools/Obsidian/images/Obsidian_02.png",
-    "README.md",
     "02.Tools/Obsidian/images/Obsidian_09.jpg",
     "02.Tools/Obsidian/images/Obsidian_08.jpg",
     "02.Tools/Obsidian/images/Obsidian_07.png",
     "02.Tools/Obsidian/images",
     "02.Tools",
-    "欢迎.md",
     "01.IT knowledge",
     "rs-test-folder-LG1ve4LNmcQXbMmY8jJrU/rs-test-file-mlYKYtewipzJC10PsYdsO",
     "rs-test-folder-LG1ve4LNmcQXbMmY8jJrU/desktop.ini",
