@@ -1,9 +1,11 @@
 # Obsidian 插件
-## 1. Remotely Save
+
+## 必装插件
+### 1. Remotely Save
 > [!NOTE] 
 > <font color=red>PC、IOS端都需要安装，才可以实现同步</font>
 > 同步到OneDrive, 使用这种同步方式，可用实现多端同步(PC、IOS、Android)
-## 2. Git 
+### 2. Git 
 
 > [!NOTE] 
 > 插件作者: Vinzent,(Denis Olehov)
