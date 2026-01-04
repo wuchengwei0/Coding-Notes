@@ -21,6 +21,7 @@
 ### 1.3 Excalidraw
 
 > [!NOTE] 
+> 作者: Zsolt Viczian
 > 画板插件
 
 ### 1.3 ??
