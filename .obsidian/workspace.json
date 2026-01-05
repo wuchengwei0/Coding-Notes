@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(markdown)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
