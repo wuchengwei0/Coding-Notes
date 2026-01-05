@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -207,7 +208,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "d488b980d4225ea0",
+  "active": "5be451babfbae650",
   "lastOpenFiles": [
     "README.md",
     "欢迎.md",
