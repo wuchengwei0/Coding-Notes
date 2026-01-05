@@ -30,4 +30,4 @@ Bili视频:
 https://www.bilibili.com/video/BV1DwfqYVEMw/?spm_id_from=333.337.search-card.all.click&vd_source=79b03586d6e2ed5f6c6d9b7934020920
 
 
-https://quartz.jzhao.xyz/
+[上线的obsidian网站地址](https://quartz.jzhao.xyz/)
