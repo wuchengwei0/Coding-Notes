@@ -23,3 +23,8 @@ Bili视频:
     
 
 除了上述教程,B站上还有不少Obsidian的使用技巧分享和应用场景介绍,建议搜索"Obsidian 教程"关键词,找到适合自己的学习资源。总之多练习多思考,你很快就能掌握Obsidian,打造专属知识库。
+
+
+
+一个成功将Obsidian部署成web项目的实战
+https://www.bilibili.com/video/BV1DwfqYVEMw/?spm_id_from=333.337.search-card.all.click&vd_source=79b03586d6e2ed5f6c6d9b7934020920
