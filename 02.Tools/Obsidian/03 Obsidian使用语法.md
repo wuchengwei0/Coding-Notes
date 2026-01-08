@@ -99,6 +99,11 @@
 
 **行内代码**
 ![](../../attachment/20260108_222404_obsidian.png)
+```python
+def hello_world()
+	print("Hello, Obsidian!")
+```
+
 ### 链接和图片
 **外部链接**
 ```markdown
