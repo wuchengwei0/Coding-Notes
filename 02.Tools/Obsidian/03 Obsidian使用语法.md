@@ -73,10 +73,5 @@
 ```
 ![](../../attachment/20260108_222147_obsidian.png)
 **行内代码**
-```text
-```python
-def hello_world():
-    print("Hello, Obsidian!")
-    ```
-```
-
+![](../../attachment/20260108_222404_obsidian.png)
+### 链接
