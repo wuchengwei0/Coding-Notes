@@ -1,3 +1,8 @@
 # Obsidian使用语法
 ## 1 Markdown语法
+
+> [!NOTE] 
+> Contents
+
+
 > markdown专注于内容本身，而不是纠结于字体大小、颜色等表面格式。更重要的是，[Markdown文件](https://so.csdn.net/so/search?q=Markdown%E6%96%87%E4%BB%B6&spm=1001.2101.3001.7020)本质上是纯文本，这意味着
