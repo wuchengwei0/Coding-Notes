@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(te)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,11 +74,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 271.5
   },
   "right": {
     "id": "f590802442b05f8a",
@@ -208,11 +209,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0cf480b4d044056e",
+  "active": "5be451babfbae650",
   "lastOpenFiles": [
     "README.md",
-    "Test.md",
     "02.Tools/Obsidian/02 Obsidian 插件.md",
+    "Test.md",
     "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
     "03",
     "欢迎.md",
