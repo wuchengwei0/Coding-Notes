@@ -74,4 +74,13 @@
 ![](../../attachment/20260108_222147_obsidian.png)
 **行内代码**
 ![](../../attachment/20260108_222404_obsidian.png)
-### 链接
+### 链接和图片
+**外部链接**
+```markdown
+[Obsidian官网](https://obsidian.md)
+```
+![](../../attachment/20260108_222503_obsidian.png)
+**图片插入**
+
+
+
