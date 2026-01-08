@@ -134,7 +134,7 @@ def hello_world()
 #### Mermaid画图语法
 具体使用方法可参考 [Mermaid画图语法](Mermaid画图语法.md)
 
-## Ob
+## Obsidian语法
 ### 双向链接
 **基本使用方法**
 ```markdown
@@ -143,3 +143,6 @@ def hello_world()
 今天学习了[02 Obsidian 插件](02%20Obsidian%20插件.md)的使用教程。
 
 **高级用法**
+```markdown
+[[笔记名称#标题名称]]
+```
