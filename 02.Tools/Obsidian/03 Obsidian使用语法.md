@@ -132,3 +132,6 @@ def hello_world()
 | 李四  | 30  | 设计师  |
 | 王五  | 28  | 产品经理 |
 #### Mermaid画图语法
+具体使用方法可参考 [Mermaid画图语法](Mermaid画图语法.md)
+
+### 双向链接
