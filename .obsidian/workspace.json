@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "02.Tools/README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "README"
             }
           }
         ]
@@ -191,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Test.md"
+                "file": "02.Tools/README.md"
               },
               "icon": "lucide-info",
-              "title": "Test的笔记属性"
+              "title": "README的笔记属性"
             }
           }
         ],
@@ -222,9 +222,9 @@
   },
   "active": "c35e687450ea6138",
   "lastOpenFiles": [
+    "Test.md",
     "attachment/20260108_215453.png",
     "attachment/2020260108215424.png",
-    "Test.md",
     "attachment",
     "README.md",
     "02.Tools/Obsidian/02 Obsidian 插件.md",
