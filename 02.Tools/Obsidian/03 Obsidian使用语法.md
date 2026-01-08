@@ -146,4 +146,4 @@ def hello_world()
 ```markdown
 [[笔记名称#标题名称]]
 ```
-[2 其他插件](02%20Obsidian%20插件.md#2%20其他插件)
+[[02 Obsidian 插件.md#]]

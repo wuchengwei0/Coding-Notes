@@ -35,8 +35,7 @@
               "title": "02 Obsidian 插件"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Tools/Obsidian/02 Obsidian 插件.md",
+                "file": "02.Tools/Obsidian/03 Obsidian使用语法.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "02 Obsidian 插件 的反向链接列表"
+              "title": "03 Obsidian使用语法 的反向链接列表"
             }
           },
           {
@@ -206,10 +205,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02.Tools/Obsidian/02 Obsidian 插件.md"
+                "file": "02.Tools/Obsidian/03 Obsidian使用语法.md"
               },
               "icon": "lucide-info",
-              "title": "02 Obsidian 插件的笔记属性"
+              "title": "03 Obsidian使用语法的笔记属性"
             }
           }
         ]
@@ -234,10 +233,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0e9091aea93d2f2c",
+  "active": "b410efe13a501269",
   "lastOpenFiles": [
-    "02.Tools/Obsidian/03 Obsidian使用语法.md",
     "02.Tools/Obsidian/02 Obsidian 插件.md",
+    "02.Tools/Obsidian/03 Obsidian使用语法.md",
     "知识管理.md",
     "123213.md",
     "02.Tools/Obsidian/Mermaid画图语法.md",
