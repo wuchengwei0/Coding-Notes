@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "92f445f8c23b136e",
+        "id": "b3af6f685ad8e0e1",
         "type": "tabs",
         "children": [
           {
-            "id": "0a7d28c429d99423",
+            "id": "b410efe13a501269",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -219,11 +219,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "0a7d28c429d99423",
+  "active": "b410efe13a501269",
   "lastOpenFiles": [
+    "02.Tools/Obsidian/03 Obsidian使用语法.md",
     "attachment/20260108_221438_obsidian.png",
     "attachment/2020260108215424.png",
-    "02.Tools/Obsidian/03 Obsidian使用语法.md",
     "attachment/20260108_221325_obsidian.png",
     "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
     "02.Tools/README.md",
@@ -242,7 +242,6 @@
     "02.Tools/Obsidian/images/Obsidian_11.png",
     "02.Tools/Obsidian/images/Obsidian_10.png",
     "02.Tools/Obsidian",
-    "02.Tools/Obsidian/images/Obsidian_02.png",
     "02.Tools/Obsidian/images",
     "02.Tools",
     "01.IT knowledge",
