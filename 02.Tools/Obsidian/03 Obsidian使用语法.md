@@ -73,6 +73,10 @@
 ```
 ![](../../attachment/20260108_222147_obsidian.png)
 **行内代码**
-```markdown
-**代码块**
+```text
+```python
+def hello_world():
+    print("Hello, Obsidian!")
+    ```
 ```
+
