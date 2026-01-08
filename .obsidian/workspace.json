@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7b57654ca4f469e1",
+        "id": "fed264cd60b2320a",
         "type": "tabs",
         "children": [
           {
-            "id": "d996bef6745a318a",
+            "id": "7619167c7583806d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -216,11 +216,14 @@
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "d996bef6745a318a",
+  "active": "7619167c7583806d",
   "lastOpenFiles": [
+    "02.Tools/README.md",
+    "README.md",
     "02.Tools/Obsidian/03 Obsidian使用语法.md",
     "02.Tools/Obsidian/02 Obsidian 插件.md",
     "知识管理.md",
@@ -236,11 +239,9 @@
     "attachment/2020260108215424.png",
     "attachment/20260108_221325_obsidian.png",
     "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
-    "02.Tools/README.md",
     "Test.md",
     "attachment/20260108_215453.png",
     "attachment",
-    "README.md",
     "03",
     "欢迎.md",
     "新建 文本文档.txt",
