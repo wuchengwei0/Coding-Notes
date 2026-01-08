@@ -1,4 +1,5 @@
 编程过程中的所有Notes
+同步github & gitee
 
 [README](02.Tools/README.md)
 
