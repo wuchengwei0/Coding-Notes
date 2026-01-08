@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b3af6f685ad8e0e1",
+        "id": "7b57654ca4f469e1",
         "type": "tabs",
         "children": [
           {
-            "id": "b410efe13a501269",
+            "id": "d996bef6745a318a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Tools/Obsidian/03 Obsidian使用语法.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03 Obsidian使用语法"
-            }
-          },
-          {
-            "id": "0e9091aea93d2f2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02.Tools/Obsidian/02 Obsidian 插件.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02 Obsidian 插件"
+              "title": "README"
             }
           }
         ]
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02.Tools/Obsidian/03 Obsidian使用语法.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "03 Obsidian使用语法 的反向链接列表"
+              "title": "README 的反向链接列表"
             }
           },
           {
@@ -205,10 +191,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "02.Tools/Obsidian/03 Obsidian使用语法.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "03 Obsidian使用语法的笔记属性"
+              "title": "README的笔记属性"
             }
           }
         ]
@@ -233,10 +219,10 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "b410efe13a501269",
+  "active": "d996bef6745a318a",
   "lastOpenFiles": [
-    "02.Tools/Obsidian/02 Obsidian 插件.md",
     "02.Tools/Obsidian/03 Obsidian使用语法.md",
+    "02.Tools/Obsidian/02 Obsidian 插件.md",
     "知识管理.md",
     "123213.md",
     "02.Tools/Obsidian/Mermaid画图语法.md",
