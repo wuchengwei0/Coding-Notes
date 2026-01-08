@@ -134,10 +134,12 @@ def hello_world()
 #### Mermaid画图语法
 具体使用方法可参考 [Mermaid画图语法](Mermaid画图语法.md)
 
+## Ob
 ### 双向链接
-> 今天学习了[02 Obsidian 插件](02%20Obsidian%20插件.md)的使用教程，它与[[个人成长]]密切相关。
-> 
+**基本使用方法**
+```markdown
+今天学习了[02 Obsidian 插件](02%20Obsidian%20插件.md)的使用教程。
+```
+今天学习了[02 Obsidian 插件](02%20Obsidian%20插件.md)的使用教程。
 
-
-
-[03 Obsidian使用语法](03%20Obsidian使用语法.md)
+**高级用法**
