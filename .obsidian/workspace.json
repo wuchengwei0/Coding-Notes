@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01 Obsidian 同步 配置"
+            }
+          },
+          {
+            "id": "0cf480b4d044056e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,19 +219,19 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "06aac65a4e491c84",
+  "active": "0cf480b4d044056e",
   "lastOpenFiles": [
-    "03",
+    "Test.md",
+    "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
     "README.md",
+    "03",
     "欢迎.md",
     "02.Tools/Obsidian/02 Obsidian 插件.md",
     "02.Tools/Obsidian/未命名.md",
     "02.Tools/Obsidian/images/Obsidian_plugin_02.png",
     "02.Tools/Obsidian/images/Obsidian_plugin_01.png",
-    "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
     "02.Tools/Obsidian/images/Obsidian_09.png",
     "02.Tools/Obsidian/images/Obsidian_08.png",
-    "未命名.md",
     "新建 文本文档.txt",
     "02.Tools/Obsidian/images/Obsidian_11.png",
     "02.Tools/Obsidian/images/Obsidian_10.png",
