@@ -184,9 +184,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0ce024f05d42f180",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Test.md"
+              },
+              "icon": "lucide-info",
+              "title": "Test的笔记属性"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -208,7 +220,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "83c8357abb6c58dc",
+  "active": "0d40325fc90126c3",
   "lastOpenFiles": [
     "README.md",
     "02.Tools/Obsidian/02 Obsidian 插件.md",
