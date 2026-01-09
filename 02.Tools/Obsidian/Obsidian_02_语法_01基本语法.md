@@ -1,4 +1,4 @@
-# Markdown语法
+# Obsidian基本语法
 ## 1 段落
 在 Markdown 中创建段落时，使用空行分隔文本块。每个用空行分隔的文本块都被视为一个独立的段落。
 ```markdown
@@ -298,4 +298,32 @@ You can also use inline footnotes. ^[This is an inline footnote.]
 ```
 > [!NOTE] 内联脚注仅在阅读视图中有效，在实时预览中无效。
 
-## 15 评论
+## 15 注释
+可以通过在文本周围加上 \%\% 来添加注释。注释仅在编辑视图中可见。
+```markdwon
+这是%%行内%%注释。
+
+%%
+这是一个块注释。
+
+块注释可以跨越多行。
+%%
+```
+这是%%行内%%注释。
+
+%%
+这是一个块注释。
+
+块注释可以跨越多行。
+%%
+
+## 16 Markdown 语法转义
+在某些情况下，可能需要在 Markdown 中显示特殊字符，例如 `*`、`_` 或 `#`，但不希望触发它们的格式设置。要按字面意思显示这些字符，在它们前面加上反斜杠 (\)。
+
+> [!example] 转义的常用字符
+> - Asterisk: \*
+> - Underscore: \_
+> - Hashtag: \#
+> - Backtick: \`
+> - Pipe (used in tables): \|
+> - Tilde: \~
