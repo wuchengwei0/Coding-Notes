@@ -236,9 +236,66 @@ Obsidian 支持两种笔记内部链接格式：
 	- [ ] Subtask 1
 - [ ] Task item 2
 	- [ ] Subtask 1
+使用 Tab 键或 Shift+Tab 键可以缩进或取消缩进选定的列表项，轻松整理。
+
+## 12 水平线
+可以使用三个或更多星号 (***)、连字符 (---) 或下划线 (___) 单独成行来添加水平线。也可以使用空格分隔符号
+```markdown
+***
+****
+* * *
+---
+----
+- - -
+___
+____
+_ _ _
+```
+***
 
 
-## TODO
-## TODO
-## TODO
-## TODO
+## 13 代码
+可以将代码直接嵌入句子中，也可以将其放在单独的代码块中
+### 内联代码
+可以使用单个反引号在句子中格式化代码
+```makrkdown
+Text inside `backticks` on a line will be formatted like code.
+```
+Text inside `backticks` on a line will be formatted like code.
+
+### 代码块
+可以通过在第一组反引号后添加语言代码，为代码块添加语法高亮显示
+``````
+```shell
+cd ~/Desktop
+```
+``````
+渲染效果：
+```shell
+cd ~/Desktop
+```
+
+## 14脚注
+可以使用以下语法向注释添加脚注[1]：
+```markdown
+This is a simple footnote[^1].
+
+[^1]: This is the referenced text.
+[^2]: Add 2 spaces at the start of each new line.
+  This lets you write footnotes that span multiple lines.
+[^note]: Named footnotes still appear as numbers, but can make it easier to identify and link references.
+```
+This is a simple footnote[^1].
+
+[^1]: This is the referenced text.
+[^2]: Add 2 spaces at the start of each new line.
+  This lets you write footnotes that span multiple lines.
+[^note]: Named footnotes still appear as numbers, but can make it easier to identify and link references.
+
+也可以在句子中插入脚注。注意，插入符号（尖括号）要放在括号之外
+```markdown
+You can also use inline footnotes. ^[This is an inline footnote.]
+```
+> [!NOTE] 内联脚注仅在阅读视图中有效，在实时预览中无效。
+
+## 15 评论
