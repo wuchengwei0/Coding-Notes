@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "322980a668ab4c37",
+        "id": "713b29071cb678e6",
         "type": "tabs",
         "children": [
           {
-            "id": "f3b26a77da46c7e5",
+            "id": "7b357ff561d82a09",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "attachment/20260107_180001_Obsidian.png"
-              },
-              "icon": "lucide-image",
-              "title": "20260107_180001_Obsidian"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ]
@@ -217,25 +215,25 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f3b26a77da46c7e5",
+  "active": "7b357ff561d82a09",
   "lastOpenFiles": [
-    "attachment/20260107_180000_obsidian.png",
-    "attachment/20260107_180001_Obsidian.png",
+    "02.Tools/Tools README.md",
+    "02.Tools/Obsidian_02_使用语法.md",
+    "attachment/20260107_180002_Obsidian.png",
+    "attachment/20260107_180001_obsidian.png",
+    "02.Tools/Obsidian.md",
+    "02.Tools/Obsidian_03_插件.md",
+    "02.Tools/Obsidian_01_同步配置.md",
+    "attachment/20260107_180003_Obsidian.png",
+    "attachment/20260107_180004_Obsidian.png",
+    "attachment/20260107_180005_Obsidian.png",
     "attachment/20260107_180013_Obsidian_plugin.png",
     "attachment/20260107_180012_Obsidian_plugin.png",
     "attachment/20260107_180011_Obsidian.png",
     "attachment/20260107_180010_Obsidian.png",
     "attachment/20260107_180009_Obsidian.png",
-    "attachment/20260107_180008_Obsidian.png",
-    "attachment/20260107_180007_Obsidian.png",
-    "attachment/20260108_222404_obsidian.png",
-    "02.Tools/Obsidian/Obsidian 同步 配置.md",
-    "02.Tools/Obsidian/Mermaid画图语法.md",
-    "02.Tools/Obsidian.md",
+    "02.Tools/Mermaid画图语法.md",
     "README.md",
-    "02.Tools/README.md",
-    "02.Tools/Obsidian/03 Obsidian使用语法.md",
-    "02.Tools/Obsidian/02 Obsidian 插件.md",
     "知识管理.md",
     "123213.md",
     "Test.md",

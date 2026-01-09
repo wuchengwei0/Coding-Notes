@@ -140,10 +140,9 @@ def hello_world()
 ```markdown
 今天学习了[02 Obsidian 插件](02%20Obsidian%20插件.md)的使用教程。
 ```
-今天学习了[02 Obsidian 插件](02%20Obsidian%20插件.md)的使用教程。
+今天学习了[Obsidian_03_插件](Obsidian_03_插件.md)的使用教程。
 
 **高级用法**
 ```markdown
 [[笔记名称#标题名称]]
 ```
-[[02 Obsidian 插件.md#]]

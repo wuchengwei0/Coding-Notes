@@ -13,21 +13,21 @@
 2. 在PC端下载OneDrive并安装
 
 3. 新建仓库 - 创建
-   ![Obsidian_01](../../attachment/20260107_180000_obsidian.png)
+   ![Obsidian_01](../../attachment/20260107_180001_obsidian.png)
 
 4. 安装插件
 
    - 设置 -->第三方插件 --> 关闭安全模式(才可以安装插件)
 
-     ![Obsidian_02](../../attachment/20260107_180001_Obsidian.png)
+     ![Obsidian_02](../../attachment/20260107_180002_Obsidian.png)
 
    - 设置 --> 第三方插件 --> 社区插件市场 --> 浏览
 
-     ![Obsidian_03](../../attachment/20260107_180002_Obsidian.png)
+     ![Obsidian_03](../../attachment/20260107_180003_Obsidian.png)
 
    - 搜索 Remotely Save --> 安装 --> 启用
 
-![Obsidian_04](../../attachment/20260107_180003_Obsidian.png)
+![Obsidian_04](../../attachment/20260107_180004_Obsidian.png)
 
 ## 2 电脑设置
 
@@ -38,7 +38,7 @@
      - 鉴权成功后， --> 检查可否连接 --> 点击--检查
   - 所有配置都成功后，就可以在左侧的刷新按钮进行同步了
    
-  ![Obsidian_05](../../attachment/20260107_180004_Obsidian.png)
+  ![Obsidian_05](../../attachment/20260107_180005_Obsidian.png)
    
   2. 其他配置
    
