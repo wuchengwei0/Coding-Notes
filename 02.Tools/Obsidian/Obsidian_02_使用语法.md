@@ -7,7 +7,19 @@
 > - 易于版本控制
 > - 永不过时
 
-### 1 
+### 1.1 段落
+在 Markdown 中创建段落时，使用空行分隔文本块。每个用空行分隔的文本块都被视为一个独立的段落。
+```markdown
+This is a paragraph.
+
+This is another paragraph.
+```
+This is a paragraph.
+
+This is another paragraph.
+
+在文本行之间添加空行会创建不同的段落。这是 Markdown 的默认行为。
+
 
 ### 标题层级
 ```markdown
