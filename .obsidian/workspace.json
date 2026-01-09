@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "02.Tools/Obsidian/01 Obsidian 同步 配置.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "01 Obsidian 同步 配置"
             }
           }
         ]
@@ -221,8 +221,9 @@
   },
   "active": "10d03da6ac57ea38",
   "lastOpenFiles": [
-    "02.Tools/Obsidian/Mermaid画图语法.md",
+    "02.Tools/Obsidian.md",
     "README.md",
+    "02.Tools/Obsidian/Mermaid画图语法.md",
     "02.Tools/README.md",
     "02.Tools/Obsidian/03 Obsidian使用语法.md",
     "02.Tools/Obsidian/02 Obsidian 插件.md",
