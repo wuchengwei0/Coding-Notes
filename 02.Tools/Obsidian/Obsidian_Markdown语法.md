@@ -103,7 +103,41 @@ This is another paragraph.
 Obsidian 支持两种笔记内部链接格式：
 - Wikilink: `[[Three laws of motion]]`
 - Markdown: `[Three laws of motion](Three%20laws%20of%20motion.md)`
-## 6
+## 6 外部链接
+如果要链接到外部 URL，可以通过将链接文本用方括号 `[ ]` 括起来，然后将 URL 用圆括号 `( )` 括起来来创建内联链接。
+```markdown
+[Obsidian Help](https://help.obsidian.md)
+```
+[Obsidian Help](https://help.obsidian.md)  
+
+
+也可以通过链接到 Obsidian URI 来创建指向其他库中文件的外部链接
+```markdown
+[Note](obsidian://open?vault=MainVault&file=Note.md)
+```
+## 7 外部图像
+通过在图片名称前添加感叹号 (!) 来添加带有外部 URL 的图片
+```markdown
+![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+```
+![Engelbart](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+> [!TIP]- 更改图像尺寸
+> 可以通过在链接目标中添加 [100x145] 来更改图像尺寸，其中 640 是宽度，480 是高度
+> ```markdown
+> ![Engelbart|100x145](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+> ```
+> ![Engelbart|100x145](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+> 
+> 如果只指定宽度，图像将按其原始宽高比缩放。例如：
+> ```markdown
+> ![Engelbart|100](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+> ```
+> ![Engelbart|40](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
+
+## 引用
+
+
+
 ## TODO
 ## TODO
 ## TODO
