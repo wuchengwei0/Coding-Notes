@@ -134,8 +134,108 @@ Obsidian 支持两种笔记内部链接格式：
 > ```
 > ![Engelbart|40](https://history-computer.com/ModernComputer/Basis/images/Engelbart.jpg)
 
-## 引用
+## 8引用
+可以通过在文本前面添加 > 符号来引用文本
+```markdown
+> Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.
 
+\- Doug Engelbart, 1961
+```
+> Human beings face ever more complex and urgent problems, and their effectiveness in dealing with these problems is a matter that is critical to the stability and continued progress of society.
+
+\- Doug Engelbart, 1961
+
+## 9 列表
+1. 可以通过在文本前添加 -、* 或 + 来创建无序列表
+```markdown
+- First list item
+- Second list item
+- Third list item
+```
+- First list item
+- Second list item
+- Third list item
+
+2. 创建有序列表，每行以数字开头，后跟一个 . 或 ) 符号
+```markdown
+1. First list item
+2. Second list item
+3. Third list item
+```
+1. First list item
+2. Second list item
+3. Third list item
+```markdown
+1) First list item
+2) Second list item
+3) Third list item
+```
+3. 使用 Shift+Enter 在有序列表中插入换行符，而不会改变编号
+```markdown
+1. First list item
+   
+2. Second list item
+3. Third list item
+   
+4. Fourth list item
+5. Fifth list item
+6. Sixth list item
+```
+1. First list item
+   
+2. Second list item
+3. Third list item
+   
+4. Fourth list item
+5. Fifth list item
+6. Sixth list item
+## 10 任务清单
+创建任务列表，请以连字符`-`和空格开头，后跟`[ ]` 来表示每个列表项
+```markdown
+- [x] This is a completed task.
+- [ ] This is an incomplete task.
+```
+- [x] This is a completed task.
+- [ ] This is an incomplete task.
+在阅读视图中，可以通过选中复选框来切换任务
+
+> [!TIP]- Tip
+> 可以使用括号内的任何字符来标记它已完成
+> ```markdown
+> - [x] Milk
+> - [?] Eggs
+> - [ ] Eggs
+> ```
+> - [x] Milk
+> - [?] Eggs
+> - [ ] Eggs
+
+## 11 嵌套列表
+可以将任何类型的列表（有序列表、无序列表或任务列表）嵌套在任何其他类型的列表之下。
+
+要创建嵌套列表，缩进一个或多个列表项。可以在嵌套结构中混合使用不同类型的列表：
+```markdown
+1. First list item
+   2. Ordered nested list item
+3. Second list item
+   - Unordered nested list item
+```
+1. First list item
+   2. Ordered nested list item
+3. Second list item
+   - Unordered nested list item
+
+同样，也可以通过缩进一个或多个列表项来创建嵌套任务列表：
+```markdown
+- [ ] Task item 1
+	- [ ] Subtask 1
+- [ ] Task item 2
+	- [ ] Subtask 1
+```
+- [ ] Task item 1
+	- [ ] Subtask 1
+- [ ] Task item 2
+	- [ ] Subtask 1
 
 
 ## TODO
