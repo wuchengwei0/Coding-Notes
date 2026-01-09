@@ -1,14 +1,11 @@
 # Obsidian使用语法
 ## 1 Markdown语法
-
-
-> [!NOTE] Title
+> [!NOTE]- Markdown优点
 > markdown专注于内容本身，而不是纠结于字体大小、颜色等表面格式。更重要的是，[Markdown文件](https://so.csdn.net/so/search?q=Markdown%E6%96%87%E4%BB%B6&spm=1001.2101.3001.7020)本质上是纯文本，这意味着
 > - 文件体积极小
 > - 可以用任何文本编辑器打开
 > - 易于版本控制
 > - 永不过时
-
 ### 标题层级
 ```markdown
 # 一级标题 
@@ -159,7 +156,6 @@ def hello_world()
 #### 样式
 默认有12种风格。每一种有不同的颜色和图标.
 只要把上面例子里的 <font color=red>`INFO`</font> 替换为下面任意一个就行。
-
 - note → 普通提示
 - abstract, summary, tldr → 摘要，概要，长话短说
 - info, todo → 信息补充，待办
@@ -173,3 +169,17 @@ def hello_world()
 - example → 例子
 - quote, cite → 引用，引用
 
+#### 标题和内容
+也可以自定义标题，然后直接不要主体部分，比如
+```markdown
+> [!TIP] Callouts can have custom titles, which also supports **markdown**!
+```
+> [!TIP] Callouts can have custom titles, which also supports **markdown**!
+#### 折叠
+可以使用 `+` 默认展开或者 `-` 默认折叠正文部分
+```markdown
+> [!FAQ]- Are callouts foldable?
+> Yes! In a foldable callout, the contents are hidden until it is expanded.
+```
+> [!FAQ]- Are callouts foldable?
+> Yes! In a foldable callout, the contents are hidden until it is expanded.

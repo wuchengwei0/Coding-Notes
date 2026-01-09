@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02.Tools/Obsidian_02_使用语法.md",
+                "file": "02.Tools/Obsidian/Obsidian_02_使用语法.md",
                 "mode": "source",
                 "source": false
               },
@@ -221,13 +221,14 @@
   },
   "active": "7b357ff561d82a09",
   "lastOpenFiles": [
-    "02.Tools/Obsidian_03_插件.md",
+    "02.Tools/Obsidian.md",
+    "02.Tools/Obsidian/Obsidian_01_同步配置.md",
+    "02.Tools/Obsidian/Obsidian_02_使用语法.md",
+    "02.Tools/Obsidian",
+    "02.Tools/Obsidian/Obsidian_03_插件.md",
     "02.Tools/Tools README.md",
-    "02.Tools/Obsidian_02_使用语法.md",
     "attachment/20260107_180002_Obsidian.png",
     "attachment/20260107_180001_obsidian.png",
-    "02.Tools/Obsidian.md",
-    "02.Tools/Obsidian_01_同步配置.md",
     "attachment/20260107_180003_Obsidian.png",
     "attachment/20260107_180004_Obsidian.png",
     "attachment/20260107_180005_Obsidian.png",
@@ -250,7 +251,6 @@
     "02.Tools",
     "01.IT knowledge",
     "rs-test-folder-LG1ve4LNmcQXbMmY8jJrU/rs-test-file-mlYKYtewipzJC10PsYdsO",
-    "rs-test-folder-LG1ve4LNmcQXbMmY8jJrU/desktop.ini",
-    "rs-test-folder-LG1ve4LNmcQXbMmY8jJrU"
+    "rs-test-folder-LG1ve4LNmcQXbMmY8jJrU/desktop.ini"
   ]
 }
