@@ -146,3 +146,30 @@ def hello_world()
 ```markdown
 [[笔记名称#标题名称]]
 ```
+
+### 标注
+```markdown
+> [!INFO]
+> 这里是callout模块
+> 支持**markdown** 和 [[Internal link|wikilinks]].
+```
+> [!INFO]-
+> 这里是callout模块
+> 支持**markdown** 和 [[Internal link|wikilinks]].
+#### 样式
+默认有12种风格。每一种有不同的颜色和图标.
+只要把上面例子里的 <font color=red>`INFO`</font> 替换为下面任意一个就行。
+
+- note → 普通提示
+- abstract, summary, tldr → 摘要，概要，长话短说
+- info, todo → 信息补充，待办
+- tip, hint, important → 提示，暗示，重要
+- success, check, done → 成功，检查，完成
+- question, help, faq → 问题，帮助，常见问题
+- warning, caution, attention → 警告、小心、注意
+- failure, fail, missing → 失败，未通过，缺失
+- danger, error → 危险，错误
+- bug → 错误
+- example → 例子
+- quote, cite → 引用，引用
+
