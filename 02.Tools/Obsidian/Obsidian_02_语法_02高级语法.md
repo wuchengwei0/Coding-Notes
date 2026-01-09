@@ -41,14 +41,17 @@ Content | Content | Content
 ## 2 图表
 使用 Mermaid 在笔记中添加图表。Mermaid 支持多种图表类型，例如流程图、顺序图和时间线
 还可以尝试使用 `Mermaid` 的实时编辑器来帮助创建图表，然后再将其添加到笔记中。
-```markdown
+
 ```mermaid
 sequenceDiagram
     Alice->>+John: Hello John, how are you?
     Alice->>+John: John, can you hear me?
     John-->>-Alice: Hi Alice, I can hear you!
     John-->>-Alice: I feel great!
-\`\`\`
 ```
 
+```mermaid
+graph TD
 
+Biology --> Chemistry
+```
