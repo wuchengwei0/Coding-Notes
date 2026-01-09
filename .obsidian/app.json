@@ -2,5 +2,6 @@
   "alwaysUpdateLinks": true,
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "attachment"
+  "attachmentFolderPath": "attachment",
+  "strictLineBreaks": true
 }
