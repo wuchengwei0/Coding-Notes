@@ -66,27 +66,21 @@ sequenceDiagram
 ## 4 标签
 标签是关键词或主题，可以帮助快速找到所需的笔记。
 1. 要创建标签，在编辑器中输入井号`#`，后跟关键词。例如：`#test`。 #test
-2. 
-
-> [!NOTE]-
-> ```markdown
-> ---
-> tags:
-> 	- recipe
-> 	- cooking
-> ---
-> ```
-
-
-
-
-
+2. 还可以使用 tags 属性添加标签。YAML 中的标签应始终格式化为列表：
+```markdown
 ---
 tags:
   - recipe
   - cooking
 ---
-
-
+```
+> [!INFO]- 使用搜索插件查找笔记
+> 使用标签视图插件查找笔记，例如 tag:#test
+### 4.1 嵌套标签 #todo
+嵌套标签定义了标签层次结构，使查找和筛选相关标签更加便捷。
+可以使用正斜杠 `/` 在标签名称中创建嵌套标签，例如 #inbox/to-read 和 #inbox/processing
+- 在搜索功能中，tag:inbox,  不仅会匹配 #inbox 还会匹配所有嵌套标签，例如#inbox/to-read。
+- 在标签视图中，嵌套标签会显示为属于其父标签。
+- 在Base中，嵌套标签可以通过 `hashTag` 函数识别，因此 file.hashTag("a") 将匹配 #a 和 #a/b 
 ## 99 代码块中粘贴代码块
 ![](../../attachment/Pasted%20image%2020260109214523.png)

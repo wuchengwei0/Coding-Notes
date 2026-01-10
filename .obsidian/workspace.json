@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02.Tools/Obsidian/Obsidian_02_语法_02高级语法.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:cooking",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
