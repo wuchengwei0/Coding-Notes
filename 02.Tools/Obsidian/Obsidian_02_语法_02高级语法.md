@@ -62,20 +62,31 @@ sequenceDiagram
 
 
 ## 3 数学公式
+可以使用 [MathJax](https://docs.mathjax.org/en/latest/basic/mathjax.html) 和 LaTeX 符号在笔记中添加数学表达式
+## 4 标签
+标签是关键词或主题，可以帮助快速找到所需的笔记。
+1. 要创建标签，在编辑器中输入井号`#`，后跟关键词。例如：`#test`。 #test
+2. 
 
-```md
-$$
-\begin{vmatrix}a & b\\
-c & d
-\end{vmatrix}=ad-bc
-$$
-```
-$$
-\begin{vmatrix}a & b\\
-c & d
-\end{vmatrix}=ad-bc
-$$
+> [!NOTE]-
+> ```markdown
+> ---
+> tags:
+> 	- recipe
+> 	- cooking
+> ---
+> ```
 
-This is an inline math expression $e^{2i\pi} = 1$.
+
+
+
+
+---
+tags:
+  - recipe
+  - cooking
+---
+
+
 ## 99 代码块中粘贴代码块
 ![](../../attachment/Pasted%20image%2020260109214523.png)

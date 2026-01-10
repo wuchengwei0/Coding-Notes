@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#，但不希望触发它们的格式设置。要按字面意思显示这些字符，请在它们前面加上反斜杠",
+                "query": "tag:cooking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -219,7 +220,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e3e6e40e5fd8685a",
+  "active": "5be451babfbae650",
   "lastOpenFiles": [
     "02.Tools/Obsidian/Obsidian_02_语法_01基本语法.md",
     "02.Tools/Obsidian/Obsidian_02_语法_02高级语法.md",
