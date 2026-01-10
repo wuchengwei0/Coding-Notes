@@ -61,5 +61,21 @@ sequenceDiagram
 
 
 
+## 3 数学公式
+
+```md
+$$
+\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc
+$$
+```
+$$
+\begin{vmatrix}a & b\\
+c & d
+\end{vmatrix}=ad-bc
+$$
+
+This is an inline math expression $e^{2i\pi} = 1$.
 ## 99 代码块中粘贴代码块
 ![](../../attachment/Pasted%20image%2020260109214523.png)

@@ -11,10 +11,14 @@
             "id": "e3e6e40e5fd8685a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02.Tools/Obsidian/Obsidian_02_语法_02高级语法.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Obsidian_02_语法_02高级语法"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 369.5,
-    "collapsed": true
+    "width": 369.5
   },
   "right": {
     "id": "f590802442b05f8a",
@@ -153,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "02.Tools/Obsidian/Obsidian_02_语法_02高级语法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Obsidian_02_语法_02高级语法 的大纲"
             }
           },
           {
