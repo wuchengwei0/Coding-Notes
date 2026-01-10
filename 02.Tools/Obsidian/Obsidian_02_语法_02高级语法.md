@@ -92,7 +92,7 @@ tags:
 
 ## 6 标注
 使用标注功能可以添加额外内容，而不会打断笔记的流畅性。
-要创建标注框，请在引用块的第一行添加 `[!info]`，其中 `info` 是类型标识符。类型标识符决定了标注框的外观和样式。要查看所有可用类型，参阅“[支持的类型](Obsidian_02_语法_02高级语法.md#支持的类型)”。
+要创建标注框，请在引用块的第一行添加 `[!info]`，其中 `info` 是类型标识符。类型标识符决定了标注框的外观和样式。要查看所有可用类型，参阅“[支持的类型](Obsidian_02_语法_02高级语法.md#支持的类型)”
 > [!info]- 可折叠标注
 > 可以通过在类型标识符后面直接添加加号 `+` 或减号 `-` 来使标注框可折叠  
 > 默认情况下，加号会展开标注框，而减号会将其折叠起来。
@@ -113,9 +113,51 @@ tags:
 > [!question] Can callouts be nested?
 > > [!todo] Yes!, they can.
 > > > [!example]  You can even use multiple layers of nesting.
-### 6.2 支持的类型
-123
+### 支持的类型
+可以使用多种标注类型和别名。每种类型都有不同的背景颜色和图标。  
+要使用这些默认样式，请将示例中的“info”替换为以下任何类型，例如 [!tip] 或 [!warning]。也可以在实时预览模式下右键单击标注来更改标注类型。  
+除非您自定义标注，否则任何不受支持的类型都将默认为“note”类型。类型标识符不区分大小写。  
+类型:
+- note → 普通提示
+- abstract, summary, tldr → 摘要，概要，长话短说
+-  info → 信息补充
+- todo → 待办
+- tip, hint, important → 提示，暗示，重要
+- success, check, done → 成功，检查，完成
+- question, help, faq → 问题，帮助，常见问题
+- warning, caution, attention → 警告、小心、注意
+- failure, fail, missing → 失败，未通过，缺失
+- danger, error → 危险，错误
+- bug → 错误
+- example → 例子
+- quote, cite → 引用，引用
 
+> [!note] Note
+
+---
+> [!abstract] abstract
+
+别名: `summary`，`tldr`
+
+---
+> [!INFO] INFO
+
+---
+
+> [!TODO] TODO
+
+---
+
+> [!TIP] Tip
+
+别名: `hint`，`important`
+
+---
+> [!TIP] Tip
+
+别名: `hint`，`important`
+
+---
 
 ## 99 代码块中粘贴代码块
 ![](../../attachment/Pasted%20image%2020260109214523.png)
