@@ -1,3 +1,8 @@
+---
+date: 2020-08-21
+tags:
+  - todo/完成笔记属性
+---
 # Obsidian高级语法
 [高级格式化语法](https://help.obsidian.md/advanced-syntax)
 ## 1 表格
@@ -103,7 +108,7 @@ tags:
 > > [!info]- 折叠标注  
 > > 内容
 
-### 6.1 嵌套标注
+### 嵌套标注
 可以创建多层嵌套的标注
 ```markdown
 > [!question] Can callouts be nested?
@@ -124,7 +129,7 @@ tags:
 - todo → 待办
 - tip, hint, important → 提示，暗示，重要
 - success, check, done → 成功，检查，完成
-- question, help, faq → 问题，帮助，常见问题
+- question, help, help → 问题，帮助，常见问题
 - warning, caution, attention → 警告、小心、注意
 - failure, fail, missing → 失败，未通过，缺失
 - danger, error → 危险，错误
@@ -153,11 +158,44 @@ tags:
 别名: `hint`，`important`
 
 ---
-> [!TIP] Tip
+> [!success] success
 
-别名: `hint`，`important`
+别名: `check`，`done`
 
 ---
+> [!question] question
 
+别名: `help`，`help`
+
+---
+> [!warning] warning
+
+别名: `caution`，`attention`
+
+---
+> [!failure] failure
+
+别名: `fail`，`missing`
+
+---
+> [!danger] danger
+
+别名: `error`
+
+---
+> [!bug] bug
+
+---
+> [!example] example
+
+---
+> [!quote] quote
+
+别名: `cite`
+
+
+
+## 7 笔记属性
+#todo/完成笔记属性 [笔记属性](https://help.obsidian.md/properties)
 ## 99 代码块中粘贴代码块
 ![](../../attachment/Pasted%20image%2020260109214523.png)

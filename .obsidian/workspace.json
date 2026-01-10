@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#todo",
+                "query": "tag:todo/完成笔记属性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
