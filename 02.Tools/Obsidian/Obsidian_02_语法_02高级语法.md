@@ -1,7 +1,9 @@
 ---
+title: A New Hope
 tags:
   - todo/完成笔记属性
 date: 2026-01-10T22:12:00
+url: https://www.example.com
 ---
 # Obsidian高级语法
 [高级格式化语法](https://help.obsidian.md/advanced-syntax)
@@ -197,6 +199,17 @@ tags:
 
 ## 7 笔记属性
 #todo/完成笔记属性 [笔记属性](https://help.obsidian.md/properties)
+属性允许组织笔记中的信息。属性包含结构化数据，例如文本、链接、日期、复选框和数字。  
+添加属性后，文件顶部将出现一行，其中包含两个输入框：属性名称和属性值。  
+至于名称，可以随意选择。Obsidian 提供了一些默认属性：标签、CSS 类和别名。  
+- Text 
+
+---
+title: A New Hope
+url: https://www.example.com
+---
+
+
 
 ## 97 嵌入网页
 ![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)

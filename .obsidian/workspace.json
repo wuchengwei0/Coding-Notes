@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a9baf2692a054d5d",
+        "id": "ff214da577607dbf",
         "type": "tabs",
         "children": [
           {
-            "id": "735127e9eb9387e0",
+            "id": "94b6437630e95756",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -259,11 +259,12 @@
       }
     ]
   },
-  "active": "735127e9eb9387e0",
+  "active": "94b6437630e95756",
   "lastOpenFiles": [
+    "Episode IV.md",
+    "02.Tools/Obsidian/Obsidian_02_语法_02高级语法.md",
     "02.Tools/Obsidian/Obsidian_02_使用语法.md",
     "02.Tools/Obsidian.md",
-    "02.Tools/Obsidian/Obsidian_02_语法_02高级语法.md",
     "attachment/20260110_213725_obsidian.png",
     "02.Tools/Obsidian/Obsidian_04_Base.md",
     "02.Tools/Obsidian/Obsidian_02_语法_01基本语法.md",
