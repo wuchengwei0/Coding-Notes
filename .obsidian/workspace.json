@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff214da577607dbf",
+        "id": "b72066e7fcf4cbcf",
         "type": "tabs",
         "children": [
           {
-            "id": "94b6437630e95756",
+            "id": "35b7ebf3341ceac0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "双向链接",
+                "query": "Pasted image 20260109214523",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -259,17 +259,21 @@
       }
     ]
   },
-  "active": "94b6437630e95756",
+  "active": "35b7ebf3341ceac0",
   "lastOpenFiles": [
+    "attachment/20260111_205755_obsidian.png",
+    "02.Tools/Obsidian/Obsidian_02_语法_02高级语法.md",
+    "attachment/20260111_205611_obsidian.png",
+    "attachment/Pasted image 20260109214523.png",
+    "attachment/20260111_205357_obsidian.png",
+    "attachment/20260111_205214_obsidian.png",
     "attachment/20260111_204531_obsidian.png",
     "Episode IV.md",
-    "02.Tools/Obsidian/Obsidian_02_语法_02高级语法.md",
     "02.Tools/Obsidian/Obsidian_02_使用语法.md",
     "02.Tools/Obsidian.md",
     "attachment/20260110_213725_obsidian.png",
     "02.Tools/Obsidian/Obsidian_04_Base.md",
     "02.Tools/Obsidian/Obsidian_02_语法_01基本语法.md",
-    "attachment/Pasted image 20260109214523.png",
     "attachment/20260109_201238_obsidian.png",
     "02.Tools/Obsidian/Obsidian_01_同步配置.md",
     "02.Tools/Obsidian",
@@ -277,11 +281,6 @@
     "02.Tools/Tools README.md",
     "attachment/20260107_180002_Obsidian.png",
     "attachment/20260107_180001_obsidian.png",
-    "attachment/20260107_180003_Obsidian.png",
-    "attachment/20260107_180004_Obsidian.png",
-    "attachment/20260107_180005_Obsidian.png",
-    "attachment/20260107_180013_Obsidian_plugin.png",
-    "attachment/20260107_180012_Obsidian_plugin.png",
     "02.Tools/Mermaid画图语法.md",
     "README.md",
     "知识管理.md",

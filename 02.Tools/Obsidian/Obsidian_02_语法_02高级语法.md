@@ -1,9 +1,5 @@
 ---
-cast: 
-	 - Mark Hamill
-	- Harrison Ford
-	- Carrie Fisher
-Harrison Ford
+time: 2020-08-21T10:30:00
 ---
 
 # Obsidian高级语法
@@ -227,21 +223,42 @@ url: https://www.example.com
 列表值可以包含文本、数字和内部链接。在列表属性中使用内部链接时，用引号将其括起来。
 ```markdown
 ---
-cast: 
+cast:
   - Mark Hamill
   - Harrison Ford
   - Carrie Fisher
-links:
-  - "[[Link]]" 
-  - "[[Link2]]"
+links: 
+ - "[[Obsidian_02_语法_01基本语法]]"
+ - "[[Obsidian_02_语法_02高级语法]]"
 ---
 ```
+![](../../attachment/20260111_205214_obsidian.png)
 
 ### Number
-
+数字类型属性必须始终是字面数字，而不是带有运算符的表达式。整数和小数均可接受。
+```markdown
+---
+year: "2026"
+pie: "3.1415"
+---
+```
+![](../../attachment/20260111_205357_obsidian.png)
 ### Checkbox
-
+复选框属性只有真或假两种值。在实时预览中，会显示为一个复选框。  
+```markdown
+---
+favorite: true
+reply: false
+last: # Inderminate value; often treated as false
+```
+![](../../attachment/20260111_205611_obsidian.png)
 ### Date
+```markdown
+---
+date: 2026-01-11
+---
+```
+![](../../attachment/20260111_205755_obsidian.png)
 
 ### Date & time
 
