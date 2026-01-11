@@ -345,8 +345,30 @@ The quick purple gem dashes through the paragraph with blazing speed. Pen in han
 
 - `[[Example]]`显示为[示例](https://help.obsidian.md/Example)
 - `[[Example#Details]]`显示为[“示例 > 详细信息”](https://help.obsidian.md/Example#Details)
-可以通过自定义链接文本来更改链接的显示方式
-**Wikilink 格式** ：
+可以通过自定义链接文本来更改链接的显示方式  
+
+**Wikilink 格式** ：  
+使用竖线 ( `|`) 更改显示文本。
+- `[[Example|Custom name]]`
+- `[[Example#Details|Section name]]`
+
+```md
+[[Obsidian_02_语法_02高级语法.md|我的自定义名称]]
+[[Obsidian_02_语法_02高级语法.md#4%20标签|我的自定义标签名称]]
+```
+[[Obsidian_02_语法_02高级语法.md|我的自定义名称]]  
+[[Obsidian_02_语法_02高级语法.md#4%20标签|我的自定义章节名称]]    
+<br />
+**Markdown 格式**  
+用于`[Display text](Link URL)`自定义链接的显示方式。  
+- `[Custom name](Example.md)`显示为[自定义名称](https://help.obsidian.md/Example)
+- `[Section name](Example.md#Details)`显示为[“章节名称”](https://help.obsidian.md/Example#Details)
+```markdown
+[我的自定义名称](Obsidian_02_语法_02高级语法.md)  
+[我的自定义章节名称](Obsidian_02_语法_02高级语法.md#4%20标签)    
+```
+[我的自定义名称](Obsidian_02_语法_02高级语法.md)  
+[我的自定义章节名称](Obsidian_02_语法_02高级语法.md#4%20标签)    
 
 ## 11 别名
 如果想使用不同的名称引用同一个文件，请考虑为笔记添加_别名_。别名是笔记的另一个名称。  
