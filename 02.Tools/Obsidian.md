@@ -14,4 +14,4 @@ Obsidian学习路线
 
 TODO
 #### Mermaid画图语法
-具体使用方法可参考 [Mermaid画图语法](Mermaid画图语法.md)
+具体使用方法可参考 [Mermaid画图语法](Mermaid画图语法.md) 
