@@ -11,10 +11,14 @@
             "id": "debe8f96b9bc0aaf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -197,7 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 418.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,7 +219,7 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "83c8357abb6c58dc",
+  "active": "debe8f96b9bc0aaf",
   "lastOpenFiles": [
     "02.Tools/Obsidian.md",
     "02.Tools/Obsidian/Obsidian_04_Base.md",
