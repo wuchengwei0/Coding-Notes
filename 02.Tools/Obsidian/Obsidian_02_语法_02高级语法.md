@@ -1,10 +1,11 @@
 ---
-title: A New Hope
-tags:
-  - todo/完成笔记属性
-date: 2026-01-10T22:12:00
-url: https://www.example.com
+cast: 
+	 - Mark Hamill
+	- Harrison Ford
+	- Carrie Fisher
+Harrison Ford
 ---
+
 # Obsidian高级语法
 [高级格式化语法](https://help.obsidian.md/advanced-syntax)
 ## 1 表格
@@ -43,7 +44,7 @@ Content | Content | Content
 | 左对齐     |  中间对齐   |     右对齐 |
 | :------ | :-----: | ------: |
 | Content | Content | Content |
-## 2 图表
+## 2 图表1
 使用 Mermaid 在笔记中添加图表。Mermaid 支持多种图表类型，例如流程图、顺序图和时间线
 还可以尝试使用 `Mermaid` 的实时编辑器来帮助创建图表，然后再将其添加到笔记中。
 ``````markdown
@@ -202,14 +203,49 @@ tags:
 属性允许组织笔记中的信息。属性包含结构化数据，例如文本、链接、日期、复选框和数字。  
 添加属性后，文件顶部将出现一行，其中包含两个输入框：属性名称和属性值。  
 至于名称，可以随意选择。Obsidian 提供了一些默认属性：标签、CSS 类和别名。  
-- Text 
+Obsidian 支持以下属性类型：
+- [Text](#Text)
+- [List](#List)
+- [Number](#Number)
+- [Checkbox](#Checkbox)
+- [Date](#Date)
+- [Date & time](#Date & time)
+- [Tags](#Tags)
 
+### Text
+```markdown
 ---
 title: A New Hope
+link: "[[Obsidian_02_语法_02高级语法]]"
 url: https://www.example.com
 ---
+```
 
+![](../../attachment/20260111_204531_obsidian.png)
+### List
+列表属性包含多个值。列表中的每个值都单独占一行，前面用连字符 (-) 和空格隔开。 
+列表值可以包含文本、数字和内部链接。在列表属性中使用内部链接时，用引号将其括起来。
+```markdown
+---
+cast: 
+  - Mark Hamill
+  - Harrison Ford
+  - Carrie Fisher
+links:
+  - "[[Link]]" 
+  - "[[Link2]]"
+---
+```
 
+### Number
+
+### Checkbox
+
+### Date
+
+### Date & time
+
+### Tags
 
 ## 97 嵌入网页
 ![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)
