@@ -1,5 +1,8 @@
 ---
-time: 2020-08-21T10:30:00
+tags:
+  - journal
+  - personal
+  - draft
 ---
 
 # Obsidian高级语法
@@ -195,7 +198,6 @@ tags:
 
 
 ## 7 笔记属性
-#todo/完成笔记属性 [笔记属性](https://help.obsidian.md/properties)
 属性允许组织笔记中的信息。属性包含结构化数据，例如文本、链接、日期、复选框和数字。  
 添加属性后，文件顶部将出现一行，其中包含两个输入框：属性名称和属性值。  
 至于名称，可以随意选择。Obsidian 提供了一些默认属性：标签、CSS 类和别名。  
@@ -261,13 +263,50 @@ date: 2026-01-11
 ![](../../attachment/20260111_205755_obsidian.png)
 
 ### Date & time
-
+```markdown
+---
+time: 2026/01/11 10:30
+```
+![](../../attachment/20260111_205931_obsidian.png)
 ### Tags
+标签属性是一种特殊的属性类型，仅供标签属性使用。此属性类型不能分配给其他属性。  
+标签属性的格式为列表，每个标签单独占一行，标签前以连字符 (-) 和空格隔开。  
+```markdown
+---
+tags: 
+  - journal
+  - personal
+  - draft
+---
+```
+![](../../attachment/20260111_210139_obsidian.png)
 
 ## 97 嵌入网页
+要嵌入网页，在笔记中添加以下内容，并将占位符文本替换为要嵌入的网页的 URL：
+```markdwon
+<iframe src="网页Link"></iframe>
+```
+> [!ERROR] 提示
+> 有些网站不允许用户直接嵌入视频。它们可能会提供用于嵌入视频的网址。如果网站不支持嵌入，请尝试搜索网站名称，并在后面加上“嵌入 iframe”。例如，“youtube 嵌入 iframe”。
+### 嵌入视频
+要嵌入 YouTube 视频，使用与嵌入[外部图片](https://help.obsidian.md/syntax#External%20images)相同的 Markdown 语法
+```markdown
+![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)
+```
 ![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)
 
+### 嵌入推文
+要嵌入推文，使用与外部图片相同的 Markdown 语法：
+```md
+![](https://twitter.com/obsdmd/status/1580548874246443010)
+```
+![](https://twitter.com/obsdmd/status/1580548874246443010)
 ## 98 HTML内容
-123
+
+<div>
+This **will not** be bold and this `will not` be code.
+</div>
+
+
 ## 99 代码块中粘贴代码块
 ![](../../attachment/Pasted%20image%2020260109214523.png)
