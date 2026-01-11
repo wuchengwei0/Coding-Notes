@@ -1,8 +1,7 @@
 ---
-tags:
-  - journal
-  - personal
-  - draft
+date: 2026-01-11T21:12:00
+aliases:
+  - Obsidian高级语法
 ---
 
 # Obsidian高级语法
@@ -71,7 +70,7 @@ sequenceDiagram
 ## 3 数学公式
 可以使用 [MathJax](https://docs.mathjax.org/en/latest/basic/mathjax.html) 和 LaTeX 符号在笔记中添加数学表达式
 ## 4 标签
-标签是关键词或主题，可以帮助快速找到所需的笔记。
+标签是关键词或主题，可以帮助快速找到所需的笔记。 ^278cf1
 1. 要创建标签，在编辑器中输入井号`#`，后跟关键词。例如：`#test`。 #test
 2. 还可以使用 tags 属性添加标签。YAML 中的标签应始终格式化为列表：
 ```markdown
@@ -281,7 +280,7 @@ tags:
 ```
 ![](../../attachment/20260111_210139_obsidian.png)
 
-## 97 嵌入网页
+## 8 嵌入网页
 要嵌入网页，在笔记中添加以下内容，并将占位符文本替换为要嵌入的网页的 URL：
 ```markdwon
 <iframe src="网页Link"></iframe>
@@ -301,11 +300,52 @@ tags:
 ![](https://twitter.com/obsdmd/status/1580548874246443010)
 ```
 ![](https://twitter.com/obsdmd/status/1580548874246443010)
-## 98 HTML内容
+## 9 HTML内容
+Obsidian支持 部分HTML，但是不建议使用
+```markdown
+<div>
+This **will not** be bold and this `will not` be code.
+</div>
+
+```
 
 <div>
 This **will not** be bold and this `will not` be code.
 </div>
+
+## 11 别名
+如果想使用不同的名称引用同一个文件，请考虑为笔记添加_别名_。别名是笔记的另一个名称。  
+使用别名来指代缩写词、昵称，或者指代其他语言的笔记    
+
+要为笔记添加别名，`aliases`在笔记[属性](https://help.obsidian.md/properties)中添加该属性。别名应始终以 YAML 列表的形式格式化。
+```markdown
+aliases:
+  - Obsidian高级语法
+```
+此时便可在其他地方引用改文件的别名 [Obsidian高级语法](Obsidian_02_语法_02高级语法.md)
+
+## 12 嵌入文件
+将一条笔记嵌入到另一条笔记中
+**1. 嵌入笔记：**
+```md
+![[Internal links]]
+```
+**2. 嵌入指向标题和模块的链接**
+```markdown
+[Obsidian标签](Obsidian_02_语法_02高级语法.md#^278cf1)
+```
+[Obsidian标签](Obsidian_02_语法_02高级语法.md#^278cf1)
+
+**3.嵌入搜索结果**
+``````
+```query
+embed OR search
+```
+``````
+
+```query
+embed OR search
+```
 
 
 ## 99 代码块中粘贴代码块
