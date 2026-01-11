@@ -1,7 +1,7 @@
 ---
-date: 2020-08-21
 tags:
   - todo/完成笔记属性
+date: 2026-01-10T22:12:00
 ---
 # Obsidian高级语法
 [高级格式化语法](https://help.obsidian.md/advanced-syntax)
@@ -197,5 +197,11 @@ tags:
 
 ## 7 笔记属性
 #todo/完成笔记属性 [笔记属性](https://help.obsidian.md/properties)
+
+## 97 嵌入网页
+![](https://www.youtube.com/watch?v=NnTvZWp5Q7o)
+
+## 98 HTML内容
+123
 ## 99 代码块中粘贴代码块
 ![](../../attachment/Pasted%20image%2020260109214523.png)

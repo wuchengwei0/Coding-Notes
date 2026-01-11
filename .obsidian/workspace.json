@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "262ab63d923f7048",
+        "id": "a9baf2692a054d5d",
         "type": "tabs",
         "children": [
           {
-            "id": "8061572d34fc32ff",
+            "id": "735127e9eb9387e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:todo/完成笔记属性",
+                "query": "双向链接",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,7 +216,8 @@
       "remotely-save:Remotely Save": false,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
   "floating": {
@@ -258,15 +259,15 @@
       }
     ]
   },
-  "active": "8061572d34fc32ff",
+  "active": "735127e9eb9387e0",
   "lastOpenFiles": [
     "02.Tools/Obsidian/Obsidian_02_使用语法.md",
+    "02.Tools/Obsidian.md",
     "02.Tools/Obsidian/Obsidian_02_语法_02高级语法.md",
     "attachment/20260110_213725_obsidian.png",
     "02.Tools/Obsidian/Obsidian_04_Base.md",
     "02.Tools/Obsidian/Obsidian_02_语法_01基本语法.md",
     "attachment/Pasted image 20260109214523.png",
-    "02.Tools/Obsidian.md",
     "attachment/20260109_201238_obsidian.png",
     "02.Tools/Obsidian/Obsidian_01_同步配置.md",
     "02.Tools/Obsidian",
