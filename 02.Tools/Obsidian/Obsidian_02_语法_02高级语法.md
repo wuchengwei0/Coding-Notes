@@ -313,6 +313,41 @@ This **will not** be bold and this `will not` be code.
 This **will not** be bold and this `will not` be code.
 </div>
 
+
+## 10 内部链接
+### 文件链接
+ - 在编辑器中输入内容`[[`，然后选择要创建链接的文件
+#### 链接到笔记中的标题
+可以链接到笔记中的特定标题，也称为_锚链接  
+#### 链接到同一笔记中的标题
+要链接到同一笔记中的某个标题，键入 `[[#` 以获取笔记中要链接的标题列表  
+例如， `[[#Preview a linked file]]`
+
+#### 链接到另一篇笔记中的标题
+要链接到另一篇笔记中的标题，`#`在链接目标的末尾添加井号 ( )，然后是标题文本。  
+例如， `[[Obsidian#Links are first-class citizens]]`
+
+#### 链接到子标题
+每个子标题可以添加多个井号 `#`。  
+例如， `[[Help and support#Questions and advice#Report bugs and request features]]`
+
+### 链接到笔记中的某个模块
+文本块是指笔记中的一个文本单元，例如段落、引用块或列表项。  
+
+`#^`可以通过在链接目标地址末尾添加 `<block_id>` 并后跟唯一的区块标识符来链接到某个区块。例如： `[[2023-01-01#^37066d]]``<block_id>`。当输入插入符号 (` `^`)` 时，将会出现一个建议列表，方便您选择正确的区块。  
+对于_简单段落_`^`，在行尾放置一个空格，后跟一个插入符号和块标识符：
+```markdwon
+The quick purple gem dashes through the paragraph with blazing speed. Pen in hand and a paperclip in the other, Gemmy works toward her goal of making the world of note-taking a happier place. ^37066d
+```
+
+### 更改链接显示文本
+默认情况下，Obsidian 会按原样显示链接文本。例如：
+
+- `[[Example]]`显示为[示例](https://help.obsidian.md/Example)
+- `[[Example#Details]]`显示为[“示例 > 详细信息”](https://help.obsidian.md/Example#Details)
+可以通过自定义链接文本来更改链接的显示方式
+**Wikilink 格式** ：
+
 ## 11 别名
 如果想使用不同的名称引用同一个文件，请考虑为笔记添加_别名_。别名是笔记的另一个名称。  
 使用别名来指代缩写词、昵称，或者指代其他语言的笔记    
@@ -334,9 +369,23 @@ aliases:
 ```markdown
 [Obsidian标签](Obsidian_02_语法_02高级语法.md#^278cf1)
 ```
-[Obsidian标签](Obsidian_02_语法_02高级语法.md#^278cf1)
+[Obsidian标签](Obsidian_02_语法_02高级语法.md#^278cf1)定义
 
-**3.嵌入搜索结果**
+**3. 在便笺中嵌入列表**
+要嵌入来自其他笔记的列表，先向列表添加块标识符：
+```markdown
+
+- list item 1
+- list item 2
+
+^my-list-id
+```
+然后使用块标识符链接到列表：
+```markdown
+![[My note#^my-list-id]]
+```
+
+**4.嵌入搜索结果**
 ``````
 ```query
 embed OR search
